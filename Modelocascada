@@ -68,6 +68,15 @@ Ventajas del Modelo Incremental para el Proyecto:
 - Permite validar cada módulo antes de continuar con la siguiente etapa.
 - Optimiza el desarrollo de la base de datos y de la plataforma web de manera organizada.
 
+Desventajas del Modelo Incremental para el Proyecto:
+
+- Requiere una buena planificación inicial.
+- Incrementa la complejidad de integración.
+- Dependencia entre módulos.
+- Puede aumentar los costos de pruebas.
+- Riesgo de cambios frecuentes.
+- Requiere seguimiento continuo.
+
 Conclusión
  
 La utilización del modelo incremental en el proyecto Sabores de Babilonia permite desarrollar la plataforma web de forma estructurada, segura y eficiente, incorporando progresivamente las funcionalidades necesarias para la comercialización de productos deshidratados. Gracias a este enfoque, es posible construir primero la base de datos SQL y posteriormente integrar los módulos de usuarios, productos, pedidos e informes, garantizando una mayor calidad del software, una mejor administración de los recursos y una adaptación más sencilla a los requerimientos del negocio y de los usuarios.
