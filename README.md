@@ -193,3 +193,7 @@ Módulo de Reportes:
 Conclusión.
 
 El desarrollo de una página web respaldada por una base de datos SQL permitirá modernizar la comercialización de frutos deshidratados mediante la automatización de procesos clave como la gestión de clientes, pedidos, inventarios y ventas. Esta solución tecnológica responde a las necesidades actuales de la sociedad, que demanda productos saludables, accesibles y sostenibles, al tiempo que fortalece la capacidad operativa y comercial del emprendimiento. Además, el sistema proporcionará información estratégica para mejorar la toma de decisiones y contribuir al crecimiento del negocio en un mercado con alta proyección de desarrollo tanto a nivel nacional como internacional.
+
+Planeador en Jira
+
+https://beeac.atlassian.net/jira/software/projects/SDB/boards/34/backlog?atlOrigin=eyJpIjoiNWY0NTAwODRkNGM5NGIxOWJjZWM0YTBhZjMyOTNhNWQiLCJwIjoiaiJ9
